@@ -220,26 +220,26 @@ body {
 
 /* Sambutan Ketua Koperasi */
 
-.about .sambutan h3 .sambutan1 h3 {
+.about .sambutan2 h3 .sambutan1 h3 {
   font-size: 24px;
   font-weight: bold;
   color: #fcfcfc;
   margin-bottom: 15px;
 }
 
-.about .sambutan p .sambutan1 p {
+.about .sambutan2 p .sambutan1 p {
   font-size: 16px;
   color: #ece6e6;
   line-height: 1.6;
   margin-bottom: 10px;
 }
 
-.about .sambutan p strong .sambutan1 p strong {
+.about .sambutan2 p strong .sambutan1 p strong {
   font-size: 18px;
   color: #ffffff;
 }
 
-.about .sambutan p em .sambutan1 p em {
+.about .sambutan2 p em .sambutan1 p em {
   font-size: 16px;
   font-family: 'Courier New', Courier, monospace;
   color: #f0cc00;
